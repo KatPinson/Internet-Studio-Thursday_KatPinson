@@ -1,5 +1,14 @@
 /* styles.css */
 
-* {
-	font-family: Arial;
+h1{
+	
+.playfair-display-<uniquifier> {
+  font-family: "Playfair Display", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+	p{
+		
+	}
 }
