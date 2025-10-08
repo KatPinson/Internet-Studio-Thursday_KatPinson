@@ -7,8 +7,14 @@ h1{
   font-optical-sizing: auto;
   font-weight: <weight>;
   font-style: normal;
+	color: B56974;
 }
 	p{
-		
+		.alice-regular {
+  font-family: "Alice", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+color: F1E3E4;
 	}
 }
