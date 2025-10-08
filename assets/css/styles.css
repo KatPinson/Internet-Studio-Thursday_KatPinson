@@ -18,5 +18,7 @@ h1{
 }
 	}
 	body{
-	color: 424A1C;
+	background-image: url("closeup-weaving.jpg");
+	background-repeat: no-repeat;
+	background: cover;
 }
