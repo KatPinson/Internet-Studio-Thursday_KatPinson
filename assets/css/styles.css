@@ -15,7 +15,7 @@ h1{
     body{
         background-image: url("assets/img/closeup-weaving.jpg");
    background-repeat: no-repeat;
-      background-cover: no-cover;
+      background: cover;
 }
 
 li{
