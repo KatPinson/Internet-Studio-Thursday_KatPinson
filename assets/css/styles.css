@@ -1,5 +1,9 @@
 /* styles.css */
 
+  body{
+        background-image:url("assets/img/closeup-weaving.jpg");
+}
+
 h1{
   font-family: "Playfair Display", serif;
   font-optical-sizing: auto;
@@ -12,9 +16,6 @@ h1{
   font-style: normal;
   color: "#F1E3E4";
     }
-    body{
-        background-image: url("assets/img/closeup-weaving.jpg");
-}
 
 li{
   font-family: "Alice", serif;
