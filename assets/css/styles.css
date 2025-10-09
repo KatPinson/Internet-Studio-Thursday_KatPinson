@@ -2,7 +2,7 @@
 
 h1{
  
-.playfair-display-uniquifier> {
+.playfair-display-uniquifier{
   font-family: "Playfair Display", serif;
   font-optical-sizing: auto;
   font-style: normal;
@@ -10,7 +10,7 @@ h1{
 }
 }
       p{
-             .alice-regular {
+             .alice-regular{
   font-family: "Alice", serif;
   font-weight: 400;
   font-style: normal;
@@ -24,7 +24,7 @@ h1{
 }
 
 li{
-      .alice-regular {
+      .alice-regular{
   font-family: "Alice", serif;
   font-weight: 400;
   font-style: normal;
