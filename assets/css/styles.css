@@ -4,13 +4,13 @@ h1{
   font-family: "Playfair Display", serif;
   font-optical-sizing: auto;
   font-style: normal;
-   color: #B56974;
+   color: "#B56974";
 }
       p{
   font-family: "Alice", serif;
   font-weight: 400;
   font-style: normal;
-  color: #F1E3E4;
+  color: "#F1E3E4";
     }
     body{
         background-image: url("assets/img/closeup-weaving.jpg");
@@ -22,6 +22,6 @@ li{
   font-family: "Alice", serif;
   font-weight: 400;
   font-style: normal;
-         color: #424A1C;
+         color: "#424A1C";
 }
 
