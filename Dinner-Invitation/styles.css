@@ -1,0 +1,24 @@
+/* styles.css */
+
+body{
+  background-image: url("Dinner-invitation/css-pattern-by-magicpattern.png");
+  background-repeat: repeat-y;
+}
+
+h1{
+  font-family: "Eczar", serif;
+  font-optical-sizing: auto;
+  color: #D8DAD3;
+}
+
+p{
+  font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+  color: #F1F2EB;
+}
+
+li{
+  font-family: "Eczar", serif;
+  font-optical-sizing: auto;
+  color: #566246;
+}
