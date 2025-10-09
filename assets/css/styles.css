@@ -1,21 +1,16 @@
 /* styles.css */
 
 h1{
- 
-.playfair-display-uniquifier{
   font-family: "Playfair Display", serif;
   font-optical-sizing: auto;
   font-style: normal;
    color: B56974;
 }
-}
       p{
-             .alice-regular{
   font-family: "Alice", serif;
   font-weight: 400;
   font-style: normal;
-                        color: F1E3E4;
-}
+  color: F1E3E4;
     }
     body{
         background-image: url("assets/img/closeup-weaving.jpg");
@@ -24,7 +19,6 @@ h1{
 }
 
 li{
-      .alice-regular{
   font-family: "Alice", serif;
   font-weight: 400;
   font-style: normal;
