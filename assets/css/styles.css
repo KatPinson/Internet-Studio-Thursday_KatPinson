@@ -4,16 +4,18 @@
 h1{
   font-family: "Playfair Display", serif;
    color: #B56974;
+  background-color: #260F26;
 }
       p{
   font-family: "Alice", serif;
   color: #F1E3E4;
+        background-color: #260F26;
     }
 
 ul{
   font-family: "Alice", serif;
          color: #F1E3E4;
-  background-color: #283618;
+  background-color: #260F26;
 }
 
   body{
