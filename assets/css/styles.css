@@ -2,18 +2,20 @@
 
 
 h1 {
+  padding: 20px;
   font-family: "Playfair Display", serif;
    color: #B56974;
   background-color: #260F26;
 }
       p {
-        padding: 25px;
+        padding: 20px;
   font-family: "Alice", serif;
   color: #F1E3E4;
         background-color: #260F26;
     }
 
 ul {
+  padding: 20px;
   font-family: "Alice", serif;
          color: #F1E3E4;
   background-color: #260F26;
