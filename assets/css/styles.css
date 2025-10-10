@@ -6,21 +6,15 @@
 
 h1{
   font-family: "Playfair Display", serif;
-  font-optical-sizing: auto;
-  font-style: normal;
    color: "#B56974";
 }
       p{
   font-family: "Alice", serif;
-  font-weight: 400;
-  font-style: normal;
   color: "#F1E3E4";
     }
 
 li{
   font-family: "Alice", serif;
-  font-weight: 400;
-  font-style: normal;
          color: "#424A1C";
 }
 
