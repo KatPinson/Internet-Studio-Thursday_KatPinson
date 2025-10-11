@@ -14,6 +14,14 @@ h1{
   color: #E5BE9E;
   background-color: #2B0504;
 }
+h2{
+    padding: 15px;
+  border-radius: 10px;
+  font-family: "Eczar", serif;
+  font-optical-sizing: auto;
+  color: #E5BE9E;
+  background-color: #2B0504;
+}
 
 p{
   padding: 15px;
@@ -41,4 +49,5 @@ form{
   color: #CBC0AD;
   background-color: #010001;
 }
+
 
