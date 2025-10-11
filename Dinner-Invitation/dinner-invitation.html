@@ -5,7 +5,7 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Eczar:wght@400..800&family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap" rel="stylesheet">
 
-<link rel="stylesheet" href="Dinner-invitation/styles.css">
+<link rel="stylesheet" href="/Dinner-invitation/styles.css">
 </head>
 <body>
 <h1>Guests of Honor:</h1>
@@ -13,7 +13,7 @@
 <br>
 
 <h2>Niccolo Macchiavelli:</h2>
-<img src ="Dinner-invitation/macchiavelli.jpg" width="400" height="500">
+<img src ="/Dinner-invitation/macchiavelli.jpg" width="400" height="500">
 <p>Niccolo Machiavelli was a politician from Italy whose influence and machinations won over lots of people. Then it became
     his downfall as he was unreliable and considered too powerful and disloyal to have as a long-term ally. He ended up penning
     the famous book on political treatise, "The Prince." Eventually, that piece of writing ended up coining the term 
@@ -22,7 +22,7 @@
 </p>
 <br>
 <h2>Boudicca:</h2>
-<img src ="Dinner-invitation/boudicca.jpg" width="400" height="500">
+<img src ="/Dinner-invitation/boudicca.jpg" width="400" height="500">
 <p>Queen consort of Norfolk during the era where the Roman empire was invading Britain. The Romans claimed that they would
 respect the kingdom's independence and then came back with an army and pillaged her town, including hurting her two
 daughters. She waged open war against the Romans and was one of the first people to make the argument that wealth and
@@ -33,7 +33,7 @@ because I admire her ethics personally.
 <br>
 
 <h2>Plutarch:</h2>
-<img src ="Dinner-invitation/plutarch.jpg" width="400" height="500">
+<img src ="/Dinner-invitation/plutarch.jpg" width="400" height="500">
 <p>He was an ancient greek philosopher who worked as the high priest of Apollo at the temple of Delphi. Many of the temple's
     secrets were taken to the grave as it was considered common cultural knowledge that would never be erased. He wrote down
     some of his findings, but not all of them. I'd be interested in talking philosophy with him especially as many Greek
@@ -65,7 +65,24 @@ because I admire her ethics personally.
     <li>Baklava topped with Honey and Clove</li>
 </ul>
 
-</body>
+<br>
 
+<form>
+    <label for="name">Name</label>
+    <input type="text" id="name" name="name"><br>
+
+    <p>Will you be bringing a guest?</p>
+    <input type="radio" id="yes" name="guest" value="yes">
+    <label for="yes">yes</label>
+    <input type="radio" id="no" name="guest" value="no">
+    <label for="no">no</label><br>
+
+    <label for="DietaryPreferences">Do you have any dietary preferences?</label>
+    <input type="text" id="DietaryPreferences" name="DietaryPreferences"><br>
+
+    <input type="submit" value="submit">
+
+</form>
+</body>
 
 </html>
