@@ -1,24 +1,42 @@
 /* styles.css */
 
 body{
-  background-image: url("Dinner-invitation/css-pattern-by-magicpattern.png");
+  background-image: url("/Dinner-invitation/css-pattern-by-magicpattern.png");
   background-repeat: repeat-y;
 }
 
 h1{
+  padding: 15px;
+  border-radius: 10px;
   font-family: "Eczar", serif;
   font-optical-sizing: auto;
-  color: #D8DAD3;
+  color: #E5BE9E;
+  background-color: #2B0504;
 }
 
 p{
+  padding: 15px;
+  border-radius: 10px;
   font-family: "Open Sans", sans-serif;
   font-optical-sizing: auto;
-  color: #F1F2EB;
+  color: #E5BE9E;
+  background-color: #2B0504;
 }
 
 li{
+  padding: 15px;
+  border-radius: 10px;
   font-family: "Eczar", serif;
   font-optical-sizing: auto;
-  color: #566246;
+  color: #E5BE9E;
+  background-color: #43290F;
+}
+
+form{
+  padding: 15px;
+  border-radius: 10px;
+  font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+  color: #CBC0AD;
+  background-color: #010001;
 }
