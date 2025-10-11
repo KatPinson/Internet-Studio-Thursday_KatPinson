@@ -3,12 +3,14 @@
 
 h1 {
   padding: 20px;
+  border-radius: 10px;
   font-family: "Playfair Display", serif;
    color: #B56974;
   background-color: #260F26;
 }
       p {
         padding: 20px;
+        border-radius: 10px;
   font-family: "Alice", serif;
   color: #F1E3E4;
         background-color: #260F26;
@@ -16,6 +18,7 @@ h1 {
 
 ul {
   padding: 20px;
+  border-radius: 10px;
   font-family: "Alice", serif;
          color: #F1E3E4;
   background-color: #260F26;
