@@ -25,8 +25,11 @@
  Insert all your glorious CSS styles below! */
 
 body{
-  background-color: #B2A198;
-  box-shadow: 0 0 15px 5px;
+  background-image: url("/asg6/sample-index-page-main/images/asg6-background");
+  background-repeat: repeat-y;
+}
+img{
+border-radius: 50%;
 }
 
 p{
