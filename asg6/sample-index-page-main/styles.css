@@ -28,8 +28,10 @@ body{
   background-image: url(/asg6/sample-index-page-main/images/asg6-background);
   background-repeat: repeat-y;
 }
+
 img{
 border-radius: 50%;
+float: right;
 }
 
 p{
