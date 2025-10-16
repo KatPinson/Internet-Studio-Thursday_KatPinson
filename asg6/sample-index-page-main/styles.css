@@ -1,0 +1,71 @@
+/* 
+      .--..--..--..--..--..--.
+    .' \  (`._   (_)     _   \
+  .'    |  '._)         (_)  |
+  \ _.')\      .----..---.   /
+  |(_.'  |    /    .-\-.  \  |
+  \     0|    |   ( O| O) | o|
+   |  _  |  .--.____.'._.-.  |
+   \ (_) | o         -` .-`  |
+    |    \   |`-._ _ _ _ _\ /
+    \    |   |  `. |_||_|   |
+    | o  |    \_      \     |     -.   .-.
+    |.-.  \     `--..-'   O |     `.`-' .'
+  _.'  .' |     `-.-'      /-.__   ' .-'
+.' `-.` '.|='=.='=.='=.='=|._/_ `-'.'
+`-._  `.  |________/\_____|    `-.'
+   .'   ).| '=' '='\/ '=' |
+   `._.`  '---------------'
+           //___\   //___\
+             ||       ||
+             ||_.-.   ||_.-.
+            (_.--__) (_.--__)
+       
+
+ Insert all your glorious CSS styles below! */
+
+body{
+  background-color: #B2A198;
+  box-shadow: 0 0 15px 5px;
+}
+
+p{
+  font-family: "Open Sans", sans-serif;
+  font-size: 1em;
+  background-color: #053225;
+  color: #C2EADC;
+  line-height: 1.6;
+}
+
+h1{
+   font-family: "Raleway", sans-serif;
+   font-size: 1.5em;
+   text-transform: uppercase;
+   background-color: #053225;
+   color: #E34A6F;
+   text-align: center;
+   border: 3px solid #053225;
+   border-radius: 0 120px 0 120px;
+}
+
+h2{
+   font-family: "Raleway", sans-serif;
+   font-size: 1.5em;
+   text-transform: uppercase;
+   background-color: #053225;
+   color: #67CBA6;
+   text-align: center;
+   border: 3px solid #053225;
+   border-radius: 0 120px 0 120px;
+}
+
+h3{
+   font-family: "Raleway", sans-serif;
+   font-size: 1.5em;
+   text-transform: uppercase;
+   background-color: #053225;
+   color: #F7B2BD;
+   text-align: center;
+   border: 3px solid #053225;
+   border-radius: 0 120px 0 120px;
+}
