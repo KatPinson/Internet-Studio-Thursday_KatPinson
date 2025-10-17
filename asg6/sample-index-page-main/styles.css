@@ -54,7 +54,7 @@ h1{
    border: 3px solid #053225;
    border-radius: 0 120px 0 120px;
    overflow: hidden;
-   padding: 50px;
+   padding: 25px;
 }
 
 h2{
@@ -67,7 +67,7 @@ h2{
    border: 3px solid #053225;
    border-radius: 0 120px 0 120px;
    overflow: hidden;
-    padding: 50px;
+    padding: 25px;
 }
 
 h3{
@@ -79,5 +79,5 @@ h3{
    text-align: center;
    border: 3px solid #053225;
    border-radius: 0 120px 0 120px;
-    padding: 50px;
+    padding: 25px;
 }
