@@ -1,0 +1,34 @@
+h1, h2, h3{
+  /* playfair-display-regular - latin */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'Playfair Display';
+  font-style: normal;
+  font-weight: 400;
+  src: url('/asg7/wireframe/fonts/playfair-display-v40-latin-regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+color: #E9F1F7;
+background-color: #54426B;
+font-size: 1.5em;
+padding: 20px;
+border-radius: 25%;
+}
+
+p{
+    /* open-sans-regular - latin */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  src: url('/asg7/wireframe/fonts/open-sans-v44-latin-regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+color: #E7DFC6;
+background-color: #54426B;
+font-size: 1em;
+padding: 10px;
+}
+
+body{
+    background-image: url("/asg7/wireframe/images/pinsonKatherine_ccpattern2");
+}
