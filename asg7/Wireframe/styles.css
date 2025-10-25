@@ -5,7 +5,7 @@ h1, h2, h3{
   font-family: 'Playfair Display';
   font-style: normal;
   font-weight: 400;
-  src: url('/asg7/wireframe/fonts/playfair-display-v40-latin-regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+  src: url("/asg7/wireframe/fonts/playfair-display-v40-latin-regular.woff2") format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
 }
 color: #E9F1F7;
 background-color: #54426B;
@@ -21,7 +21,7 @@ p{
   font-family: 'Open Sans';
   font-style: normal;
   font-weight: 400;
-  src: url('/asg7/wireframe/fonts/open-sans-v44-latin-regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+  src: url("/asg7/wireframe/fonts/open-sans-v44-latin-regular.woff2") format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
 }
 color: #E7DFC6;
 background-color: #54426B;
@@ -31,4 +31,5 @@ padding: 10px;
 
 body{
     background-image: url("/asg7/wireframe/images/pinsonKatherine_ccpattern2");
+
 }
