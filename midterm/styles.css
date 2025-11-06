@@ -23,6 +23,57 @@
        
 
  Insert all your glorious CSS styles below! */
+/* jim-nightshade-regular - latin */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'Jim Nightshade';
+  font-style: normal;
+  font-weight: 400;
+  src: url('/midterm/fonts/jim-nightshade-v21-latin-regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+
+/* cormorant-upright-regular - latin */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'Cormorant Upright';
+  font-style: normal;
+  font-weight: 400;
+  src: url('/midterm/fonts/cormorant-upright-v19-latin-regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+
+/* open-sans-regular - latin */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  src: url('/midterm/fonts/open-sans-v44-latin-regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+
+body{
+  background-color: #8A716A;
+}
+
+p{
+    font-family: 'Open Sans';
+    padding: 10px;
+}
+
+h1{
+  display: inline-block;
+  font-family: 'Jim Nightshade';
+  font-size: 4em;
+ text-align: center;
+  background-image: url('/midterm/images/bigpapyrus.jpg');
+  background-position: left;
+  background-repeat: no-repeat;
+  padding: 10px;
+  text-shadow: 1px 2px #E03800;
+}
+
+h2{
+  font-family: 'Cormorant Upright';
+}
 
 nav ul{
 	list-style: none;
@@ -30,12 +81,262 @@ nav ul{
 	justify-content: center;
 	flex-direction: row;
 	flex-wrap: wrap;
-	gap: 20px;
+	gap: 45px;
+  padding: 30px;
+  background-color: #E03800;
 }
 
 nav ul li{
   color: #000000;
 	background-image: url('/midterm/images/papyrus.jpg');
+  background-position: center;
 	padding: 10px;
-	border-radius: 5px;
+	border-radius: 3px;
+  font-family: 'Jim Nightshade';
+  font-size: 1.5em;
+}
+
+.Mephistopheles-container {
+  float: left;
+  clear: both;
+  width: 50%;
+}
+
+.Mephistopheles-image {
+  display: block;
+  width: 95%;
+  height: auto;
+  border-radius: 100px;
+}
+
+.Mephistopheles-overlay {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 100%;
+  width: 100%;
+  opacity: 0;
+  transition: .5s ease;
+  background-color: #E03800;
+}
+
+.Mephistopheles-container:hover .overlay {
+  opacity: 1;
+}
+
+.Mephistopheles-text {
+  color: #000000;
+  font-size: 20px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+}
+
+.DnD-Nine-Hells{
+  font-family: 'Jim Nightshade';
+  font-size:4em;
+  color: #000000;
+  text-align: center;
+  float: center;
+}
+
+.ninelayers{
+  font-family: 'Cormorant Upright';
+  font-size: 2.5em;
+  color: #E09A29;
+  padding: 20px;
+  background-color: #E03800;
+  overflow: hidden;
+}
+
+.Intro-paragraph{
+padding: 20px;
+text-align: left;
+position: relative;
+right: 15px;
+font-family: 'Open Sans';
+color: #FFFFFC;
+}
+
+.fun-facts{
+  font-family: 'Open Sans';
+  text-align: left;
+  color: #FFFFFC;
+  background-color: #E03800;
+     padding: 10px;
+     overflow: hidden;
+     border-radius: 5px;
+
+}
+
+.please-help{
+   font-family: 'Cormorant Upright';
+   font-size: 1em;
+    color: #FFFFFC;
+   text-align: left;
+   background-color: #E03800;
+     padding: 10px;
+     overflow: hidden;
+     border-radius: 5px;
+}
+
+.NineHellsMap-image{
+  width: 30%;
+float: right;
+border-radius: 30px;
+  padding: 10px;
+}
+
+
+
+
+.blood-apricot-winery{
+  display: flex;
+  background-color: #53131E;
+  margin: 0 auto;
+  color: #FFFFFC;
+padding: 10px;
+}
+
+.winery-heading{
+  text-align: center;
+  font-size: 3em;
+    padding: 10px;
+  
+}
+
+.tavern{
+  float: left;
+  clear: both;
+  padding: 10px;
+}
+
+.glazed-dwarf{
+  display: flex;
+  background-color: #E09A29;
+  margin: 0 auto;
+  padding: 10px;
+}
+
+.glazed-dwarf-header{
+  text-align: center;
+  font-size: 3em;
+    padding: 10px;
+}
+
+.houseofhope{
+  float: left;
+  clear: both;
+  padding: 10px;
+  max-width: 748px;
+}
+
+.devils{
+  float: left;
+  clear:both;
+  padding: 10px;
+  max-width: 748px;
+}
+
+.dispater-enemies{
+  display: flex;
+background-color: #53131E;
+margin: 0 auto;
+color: #FFFFFC;
+padding: 10px;
+}
+
+.dispater-header{
+  text-align: center;
+  font-size: 3em;
+    padding: 10px;
+}
+
+
+
+.enlisting-blood-war{
+  display: flex;
+background-color: #53131E;
+margin: 0 auto;
+color: #FFFFFC;
+padding: 10px;
+}
+
+.blood-war-header{
+  text-align: center;
+  font-size: 3em;
+    padding: 10px;
+}
+
+.bloodwar{
+  float: left;
+  clear: both;
+  padding: 10px;
+}
+
+.cania-library{
+    display: flex;
+  background-color: #E09A29;
+  margin: 0 auto;
+  padding: 10px;
+}
+
+.cania-header{
+  text-align: center;
+  font-size: 3em;
+  padding: 10px;
+}
+
+.library{
+  float: left;
+  clear: both;
+    padding: 10px;
+}
+
+.maladomini-paperwork{
+    display: flex;
+background-color: #53131E;
+margin: 0 auto;
+color: #FFFFFC;
+padding: 10px;
+}
+
+.maladomini-header{
+   text-align: center;
+  font-size: 3em;
+  padding: 10px;
+}
+
+.paperwork{
+  float: left;
+  clear: both;
+    padding: 10px;
+}
+
+
+
+.statement{
+  background-image: url('/midterm/images/bigpapyrus.jpg');
+}
+
+
+.contactpatron{
+  display: flex;
+  margin: 0 auto;
+  padding: 10px;
+}
+
+form{
+  font-family: 'Jim Nightshade';
+  font-size: 2em;
+font-weight: bold;
+background-image: url('/midterm/images/bigpapyrus.jpg');
+}
+
+input{
+  border: 1mm dashed #53131E;
 }
