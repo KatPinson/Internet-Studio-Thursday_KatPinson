@@ -109,7 +109,7 @@ nav ul li{
   border-radius: 100px;
 }
 
-.Mephistopheles-overlay {
+/*.Mephistopheles-overlay {
   position: absolute;
   top: 0;
   bottom: 0;
@@ -135,7 +135,7 @@ nav ul li{
   transform: translate(-50%, -50%);
   -ms-transform: translate(-50%, -50%);
 }
-
+*/
 .DnD-Nine-Hells{
   font-family: 'Jim Nightshade';
   font-size:4em;
