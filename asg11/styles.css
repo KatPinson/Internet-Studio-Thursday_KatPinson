@@ -54,6 +54,7 @@ h1{
   line-height: 1.15;
   color: #EAFFDA;
       text-align: left;
+      padding: 10px;
 }
 
 p{
@@ -61,12 +62,13 @@ p{
   font-size: 1em;
   color: #EAFFDA;
       text-align: left;
+       padding: 10px;
 }
 
 .Dodgeball-or-Death{
   display: flex;
   flex-direction: row;
-  flex-wrap: wrap;
+  flex-wrap: nowrap;
   justify-content: space-evenly;
   padding: 15px;
   background-color: #A49966;
@@ -75,7 +77,7 @@ p{
 .Abaddon{
   display: flex;
   flex-direction: row;
-  flex-wrap: wrap;
+  flex-wrap: nowrap;
   padding: 15px;
   background-color: #A49966;
 }
@@ -83,7 +85,7 @@ p{
 .Raphael{
   display: flex;
   flex-direction: row;
-  flex-wrap: wrap;
+  flex-wrap: nowrap;
   padding: 15px;
   background-color: #A49966;
 }
@@ -91,7 +93,7 @@ p{
 .Alduin{
   display: flex;
   flex-direction: row;
-  flex-wrap: wrap;
+  flex-wrap: nowrap;
   padding: 15px;
   background-color: #A49966;
 }
@@ -99,7 +101,7 @@ p{
 .Mr-House{
   display: flex;
   flex-direction: row;
-  flex-wrap: wrap;
+  flex-wrap: nowrap;
   padding: 15px;
   background-color: #A49966;
 }
@@ -107,7 +109,7 @@ p{
 .The-Being{
   display: flex;
   flex-direction: row;
-  flex-wrap: wrap;
+  flex-wrap: nowrap;
   padding: 15px;
   background-color: #A49966;
 }
