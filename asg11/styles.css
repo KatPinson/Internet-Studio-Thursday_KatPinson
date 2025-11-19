@@ -76,7 +76,6 @@ p{
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
-  justify-content: space-evenly;
   padding: 15px;
   background-color: #A49966;
 }
@@ -85,7 +84,6 @@ p{
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
-  justify-content: space-evenly;
   padding: 15px;
   background-color: #A49966;
 }
@@ -94,7 +92,6 @@ p{
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
-  justify-content: space-evenly;
   padding: 15px;
   background-color: #A49966;
 }
@@ -103,7 +100,6 @@ p{
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
-  justify-content: space-evenly;
   padding: 15px;
   background-color: #A49966;
 }
@@ -112,7 +108,6 @@ p{
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
-  justify-content: space-evenly;
   padding: 15px;
   background-color: #A49966;
 }
