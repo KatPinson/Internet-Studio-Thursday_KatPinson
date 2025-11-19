@@ -53,12 +53,14 @@ h1{
   font-weight: true;
   line-height: 1.15;
   color: #EAFFDA;
+      text-align: left;
 }
 
 p{
   font-family: 'Inconsolata';
   font-size: 1em;
   color: #EAFFDA;
+      text-align: left;
 }
 
 .Dodgeball-or-Death{
