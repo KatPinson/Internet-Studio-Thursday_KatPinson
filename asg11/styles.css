@@ -61,10 +61,6 @@ p{
   color: #EAFFDA;
 }
 
-.text{
-align-self: flex-end;
-}
-
 .Dodgeball-or-Death{
   display: flex;
   flex-direction: row;
