@@ -1,0 +1,199 @@
+/* 
+      .--..--..--..--..--..--.
+    .' \  (`._   (_)     _   \
+  .'    |  '._)         (_)  |
+  \ _.')\      .----..---.   /
+  |(_.'  |    /    .-\-.  \  |
+  \     0|    |   ( O| O) | o|
+   |  _  |  .--.____.'._.-.  |
+   \ (_) | o         -` .-`  |
+    |    \   |`-._ _ _ _ _\ /
+    \    |   |  `. |_||_|   |
+    | o  |    \_      \     |     -.   .-.
+    |.-.  \     `--..-'   O |     `.`-' .'
+  _.'  .' |     `-.-'      /-.__   ' .-'
+.' `-.` '.|='=.='=.='=.='=|._/_ `-'.'
+`-._  `.  |________/\_____|    `-.'
+   .'   ).| '=' '='\/ '=' |
+   `._.`  '---------------'
+           //___\   //___\
+             ||       ||
+             ||_.-.   ||_.-.
+            (_.--__) (_.--__)
+       
+
+ Insert all your glorious CSS styles below! */
+
+ /* quattrocento-regular - latin */
+/* quattrocento-regular - latin */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'Quattrocento';
+  font-style: normal;
+  font-weight: 400;
+  src: url('/asg12/fonts/quattrocento-v24-latin-regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+
+/* fanwood-text-regular - latin */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'Fanwood Text';
+  font-style: normal;
+  font-weight: 400;
+  src: url('/asg12/fonts/fanwood-text-v17-latin-regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+
+body{
+  background-image: url("/asg12/images/CircuitPrimary.jpg");
+}
+
+h1,
+h2,
+h3,
+h4,
+h5 {
+  font-family: 'Quattrocento', sans-serif;
+  font-weight: true;
+  line-height: 1.15;
+  padding: 10px;
+  color: #177E89;
+}
+
+h1{
+  font-family: 'Quattrocento', sans-serif;
+  font-weight: 400;
+  margin-top: 0;
+  font-size: 3.05em;
+  text-align: left;
+}
+
+h2 { 
+  font-family: 'Quattrocento', sans-serif;
+  font-size: 2.44em;
+   text-align: left;
+}
+
+p {
+  font-family: 'Fanwood Text';
+  font-size: 1em;
+   padding: 10px;
+    text-align: left;
+    color: #8DA1B9;
+}
+
+.Why{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: space-evenly;
+  padding: 20px;
+  background-color: #CF5C36;
+}
+
+.Annihilation{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: space-evenly;
+  padding: 20px;
+  background-color: #CF5C36;
+}
+
+.Nine-Days{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: space-evenly;
+  padding: 20px;
+  background-color: #CF5C36;
+}
+
+.Hereditary{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: space-evenly;
+  padding: 20px;
+  background-color: #CF5C36;
+}
+
+.Midsommar{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: space-evenly;
+  padding: 20px;
+  background-color: #CF5C36;
+}
+
+.Dune{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: space-evenly;
+  padding: 20px;
+  background-color: #CF5C36;
+}
+
+.Scream{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: space-evenly;
+  padding: 20px;
+  background-color: #CF5C36;
+}
+
+.Alien-Romulus{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: space-evenly;
+  padding: 20px;
+  background-color: #CF5C36;
+}
+
+.The-Batman{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: space-evenly;
+  padding: 20px;
+  background-color: #CF5C36;
+}
+
+.Knives-Out{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: space-evenly;
+  padding: 20px;
+  background-color: #CF5C36;
+}
+
+.The-Rocky-Horror-Picture-Show{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: space-evenly;
+  padding: 20px;
+  background-color: #CF5C36;
+}
+
+.Coraline{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: space-evenly;
+  padding: 20px;
+  background-color: #CF5C36;
+}
+
+.Donnie-Darko{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: space-evenly;
+  padding: 20px;
+  background-color: #CF5C36;
+}
