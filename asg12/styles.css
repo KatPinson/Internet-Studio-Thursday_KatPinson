@@ -75,7 +75,7 @@ h2 {
 
 p {
   font-family: 'Fanwood Text';
-  font-size: 1em;
+  font-size: 1.6em;
    padding: 10px;
     text-align: left;
     color: #8DA1B9;
@@ -94,6 +94,7 @@ img {
   justify-content: space-evenly;
   padding: 20px;
   background-color: #CF5C36;
+border-radius: 15%;
 }
 
 .Annihilation{
@@ -103,6 +104,7 @@ img {
   justify-content: space-evenly;
   padding: 20px;
   background-color: #CF5C36;
+border-radius: 15%;
 }
 
 .Nine-Days{
@@ -112,6 +114,7 @@ img {
   justify-content: space-evenly;
   padding: 20px;
   background-color: #CF5C36;
+      border-radius: 15%;
 }
 
 .Hereditary{
@@ -121,6 +124,7 @@ img {
   justify-content: space-evenly;
   padding: 20px;
   background-color: #CF5C36;
+      border-radius: 15%;
 }
 
 .Midsommar{
@@ -130,6 +134,7 @@ img {
   justify-content: space-evenly;
   padding: 20px;
   background-color: #CF5C36;
+      border-radius: 15%;
 }
 
 .Dune{
@@ -139,6 +144,7 @@ img {
   justify-content: space-evenly;
   padding: 20px;
   background-color: #CF5C36;
+      border-radius: 15%;
 }
 
 .Scream{
@@ -148,6 +154,7 @@ img {
   justify-content: space-evenly;
   padding: 20px;
   background-color: #CF5C36;
+      border-radius: 15%;
 }
 
 .Alien-Romulus{
@@ -157,6 +164,7 @@ img {
   justify-content: space-evenly;
   padding: 20px;
   background-color: #CF5C36;
+      border-radius: 15%;
 }
 
 .The-Batman{
@@ -166,6 +174,7 @@ img {
   justify-content: space-evenly;
   padding: 20px;
   background-color: #CF5C36;
+      border-radius: 15%;
 }
 
 .Knives-Out{
@@ -175,6 +184,7 @@ img {
   justify-content: space-evenly;
   padding: 20px;
   background-color: #CF5C36;
+border-radius: 15%;
 }
 
 .The-Rocky-Horror-Picture-Show{
@@ -184,6 +194,7 @@ img {
   justify-content: space-evenly;
   padding: 20px;
   background-color: #CF5C36;
+      border-radius: 15%;
 }
 
 .Coraline{
@@ -193,6 +204,7 @@ img {
   justify-content: space-evenly;
   padding: 20px;
   background-color: #CF5C36;
+      border-radius: 15%;
 }
 
 .Donnie-Darko{
@@ -202,4 +214,5 @@ img {
   justify-content: space-evenly;
   padding: 20px;
   background-color: #CF5C36;
+      border-radius: 15%;
 }
