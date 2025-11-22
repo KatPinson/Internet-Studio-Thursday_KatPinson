@@ -81,12 +81,6 @@ p {
     color: #8DA1B9;
 }
 
-img {
-    float: left;
-    width:  300px;
-    object-fit: cover;
-}
-
 .Why{
   display: flex;
   flex-direction: row;
@@ -109,6 +103,12 @@ border-radius: 5%;
       overflow: hidden;
 }
 
+.Annihilation-image{
+    float: left;
+    width:  300px;
+    object-fit: cover;
+}
+
 .Nine-Days{
   display: flex;
   flex-direction: row;
@@ -118,6 +118,12 @@ border-radius: 5%;
   background-color: #CF5C36;
       border-radius: 5%;
       overflow: hidden;
+}
+
+.Nine-Days-image{
+    float: left;
+    width:  300px;
+    object-fit: cover;
 }
 
 .Hereditary{
@@ -131,6 +137,12 @@ border-radius: 5%;
       overflow: hidden;
 }
 
+.Hereditary-image{
+    float: left;
+    width:  300px;
+    object-fit: cover;
+}
+
 .Midsommar{
   display: flex;
   flex-direction: row;
@@ -140,6 +152,12 @@ border-radius: 5%;
   background-color: #CF5C36;
       border-radius: 5%;
       overflow: hidden;
+}
+
+.Midsommar-image{
+    float: left;
+    width:  300px;
+    object-fit: cover;
 }
 
 .Dune{
@@ -153,6 +171,12 @@ border-radius: 5%;
       overflow: hidden;
 }
 
+.Dune-image{
+    float: left;
+    width:  300px;
+    object-fit: cover;
+}
+
 .Scream{
   display: flex;
   flex-direction: row;
@@ -162,6 +186,12 @@ border-radius: 5%;
   background-color: #CF5C36;
       border-radius: 5%;
       overflow: hidden;
+}
+
+.Scream-image{
+    float: left;
+    width:  300px;
+    object-fit: cover;
 }
 
 .Alien-Romulus{
@@ -175,6 +205,12 @@ border-radius: 5%;
       overflow: hidden;
 }
 
+.Alien-Romulus-image{
+    float: left;
+    width:  300px;
+    object-fit: cover;
+}
+
 .The-Batman{
   display: flex;
   flex-direction: row;
@@ -184,6 +220,12 @@ border-radius: 5%;
   background-color: #CF5C36;
       border-radius: 5%;
       overflow: hidden;
+}
+
+.The-Batman-image{
+    float: left;
+    width:  300px;
+    object-fit: cover;
 }
 
 .Knives-Out{
@@ -197,6 +239,12 @@ border-radius: 5%;
       overflow: hidden;
 }
 
+.Knives-Out-image{
+    float: left;
+    width:  300px;
+    object-fit: cover;
+}
+
 .The-Rocky-Horror-Picture-Show{
   display: flex;
   flex-direction: row;
@@ -206,6 +254,12 @@ border-radius: 5%;
   background-color: #CF5C36;
       border-radius: 5%;
       overflow: hidden;
+}
+
+.The-Rocky-Horror-Picture-Show-image{
+    float: left;
+    width:  300px;
+    object-fit: cover;
 }
 
 .Coraline{
@@ -219,6 +273,12 @@ border-radius: 5%;
       overflow: hidden;
 }
 
+.Coraline-image{
+    float: left;
+    width:  300px;
+    object-fit: cover;
+}
+
 .Donnie-Darko{
   display: flex;
   flex-direction: row;
@@ -228,4 +288,10 @@ border-radius: 5%;
   background-color: #CF5C36;
       border-radius: 5%;
       overflow: hidden;
+}
+
+.Donnie-Darko-image{
+    float: left;
+    width:  300px;
+    object-fit: cover;
 }
