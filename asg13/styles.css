@@ -88,6 +88,7 @@ p {
   padding: 10px;
   color: #9DB17C;
   background-color: #82735C;
+  margin: 40px;
 }
 
 .Underwriter-Logo{
@@ -101,13 +102,15 @@ p {
   margin: 0 auto;
   padding: 10px;
   color: #D1F5BE;
-  background-color: #4B3B40;
+  background-color: #4B3B40;   
+  margin: 40px;
 }
 
 .Floral-Logo{
   float: left;
   padding: 10px;
   width: 300px;
+  height: 100px;
 }
 
 .Jewelry-Data-Cataloguer{
@@ -116,6 +119,7 @@ p {
   padding: 10px;
   color: #9DB17C;
   background-color: #82735C;
+  margin: 40px;
 }
 
 .Jewelry-Logo{
