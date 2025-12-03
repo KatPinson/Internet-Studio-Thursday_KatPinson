@@ -1,0 +1,128 @@
+/* 
+      .--..--..--..--..--..--.
+    .' \  (`._   (_)     _   \
+  .'    |  '._)         (_)  |
+  \ _.')\      .----..---.   /
+  |(_.'  |    /    .-\-.  \  |
+  \     0|    |   ( O| O) | o|
+   |  _  |  .--.____.'._.-.  |
+   \ (_) | o         -` .-`  |
+    |    \   |`-._ _ _ _ _\ /
+    \    |   |  `. |_||_|   |
+    | o  |    \_      \     |     -.   .-.
+    |.-.  \     `--..-'   O |     `.`-' .'
+  _.'  .' |     `-.-'      /-.__   ' .-'
+.' `-.` '.|='=.='=.='=.='=|._/_ `-'.'
+`-._  `.  |________/\_____|    `-.'
+   .'   ).| '=' '='\/ '=' |
+   `._.`  '---------------'
+           //___\   //___\
+             ||       ||
+             ||_.-.   ||_.-.
+            (_.--__) (_.--__)
+       
+
+ Insert all your glorious CSS styles below! */
+/* playfair-display-regular - latin */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'Playfair Display';
+  font-style: normal;
+  font-weight: 400;
+  src: url('/asg13/fonts/playfair-display-v40-latin-regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+ 
+ /* source-sans-3-regular - latin */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'Source Sans 3';
+  font-style: normal;
+  font-weight: 400;
+  src: url('/asg13/fonts/source-sans-3-v19-latin-regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+
+h1,
+h2,
+h3,
+h4,
+h5 {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: true;
+  line-height: 1.15;
+  text-align: center;
+  padding: 15px;
+}
+
+h1,
+.text-size-h1 {
+  font-family: 'Playfair Display', sans-serif;
+  font-weight: 400;
+  margin-top: 0;
+  font-size: 3.05em;
+}
+
+h2,
+.text-size-h2 { font-size: 2.44em; }
+
+
+body {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: false;
+  line-height: 1.65;
+  background-image: url('/asg13/images/cloudy-day.jpg');
+}
+
+p {
+  font-size: 1em;
+  padding: 15px;
+}
+
+.Dream-Jobs{
+  display: flex;
+  margin: 0 auto;
+  padding: 10px;
+  color: #D1F5BE;
+  background-color: #4B3B40;
+}
+
+.Underwriter{
+  display: flex;
+  margin: 0 auto;
+  padding: 10px;
+  color: #9DB17C;
+  background-color: #82735C;
+}
+
+.Underwriter-Logo{
+  float: left;
+  clear: both;
+  padding: 10px;
+}
+
+.Floral-Designer-Assistant{
+  display: flex;
+  margin: 0 auto;
+  padding: 10px;
+  color: #D1F5BE;
+  background-color: #4B3B40;
+}
+
+.Floral-Logo{
+  float: left;
+  clear: both;
+  padding: 10px;
+}
+
+.Jewelry-Data-Cataloguer{
+  display: flex;
+  margin: 0 auto;
+  padding: 10px;
+  color: #9DB17C;
+  background-color: #82735C;
+}
+
+.Jewelry-Logo{
+  float: left;
+  clear: both;
+  padding: 10px;
+}
